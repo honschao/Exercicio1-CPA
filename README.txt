@@ -3,7 +3,7 @@ Orientações
 	1. Rode as células na ordem em que elas se apresentam.
 	2. Utilize a versão 3.12 do python.
 	3. Não é necessário abrir um servidor local, mas recomendo por garantia.
-	4. {IMPORTANTE} É necessário que o notebook esteja na mesma pasta que os demais arquivos, caso contrário o script não funcionará.
+	4. {IMPORTANTE} É necessário que o notebook esteja na mesma pasta que as outras pastas, caso contrário o script não funcionará.
 	
 ============================================================================
 
