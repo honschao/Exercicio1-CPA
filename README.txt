@@ -13,6 +13,6 @@ Informações
 		
 ============================================================================
 
-Link para o repositório: https://github.com/honschao/Ex1-Arquivos-Solicitados
+Link para o repositório: https://github.com/honschao/Exercicio1-CPA
 
 
